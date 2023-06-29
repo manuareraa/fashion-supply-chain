@@ -1,0 +1,18 @@
+.btn {
+  background-color: #0098A1;
+  border: none;
+  width: 250px;
+  /* capitalize the first letter */
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+.input {
+  border: 1px solid black;
+}
+
+.btn-custom {
+  width: 80px;
+  height: 20px;
+  padding: 0px;
+}
